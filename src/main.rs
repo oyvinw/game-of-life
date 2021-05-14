@@ -1,0 +1,4 @@
+
+fn main() {
+    rgol::run();
+}
